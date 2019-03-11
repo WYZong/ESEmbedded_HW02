@@ -12,4 +12,4 @@ Q: Please modify main.s to observe the `push` and the `pop` instructions:
 --------------------
 
 A: This is my environment setting.
-![environment](Pictures/setting.png "environment setting")
+![environment](/Pictures/setting.png )
